@@ -151,5 +151,5 @@ map1.addLayerControl()
 map1
 ```
 
-[Clique aqui para visualizar o mapa interativo](map1.html)
+<iframe src="https://guiajf.github.io/idxv/map1.html" width="100%" height="600px"></iframe>
 
