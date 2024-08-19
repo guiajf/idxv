@@ -153,5 +153,5 @@ map1.addLayerControl()
 map1
 ```
 
-![Figura 1](map1.png)
+![](map1.png)
 
