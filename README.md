@@ -151,7 +151,5 @@ map1.addLayerControl()
 map1
 ```
 
-``` json
-{"model_id":"956270a5fa344e55a4f61a5ad851cc08","version_major":2,"version_minor":0}
-```
+[Clique aqui para visualizar o mapa interativo](link_para_o_mapa/map1.html)
 
