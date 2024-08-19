@@ -140,6 +140,8 @@ color = ['FFFFFF', 'CE7E45', 'DF923D', 'F1B555', 'FCD163', '99B718',
 pallete = {"min":0, "max":1, 'palette':color}
 ```
 
+### Mapa interativo para visualização de diferentes camadas
+
 ``` python
 map1 = geemap.Map()
 map1.centerObject(aoi, 15)
