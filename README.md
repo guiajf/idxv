@@ -151,5 +151,5 @@ map1.addLayerControl()
 map1
 ```
 
-[Clique aqui para visualizar o mapa interativo](link_para_o_mapa/map1.html)
+[Clique aqui para visualizar o mapa interativo](map1.html)
 
