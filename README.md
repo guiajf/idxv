@@ -151,5 +151,5 @@ map1.addLayerControl()
 map1
 ```
 
-[Clique aqui para visualizar o mapa interativo](https://github.com/guiajf/github.io/blob/main/map1.html)
+[](map1.png)
 
