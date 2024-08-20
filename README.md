@@ -33,7 +33,7 @@ ee.Initialize()
 ```
 
 
-## Índices de vegetação {#índices-de-vegetação}
+## Índices de vegetação
 
 ### NDVI (Normalized Difference Vegetation Index)
 
