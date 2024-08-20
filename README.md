@@ -16,10 +16,6 @@ Em nosso exemplo, utilizamos imagens de satélite geradas pelo
 ``` python
 import ee
 import geemap
-import rasterio
-from rasterio.plot import show
-import matplotlib.pyplot as plt
-from matplotlib.patches import Polygon
 ```
 
 ### Inicializamos a API
